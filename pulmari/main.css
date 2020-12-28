@@ -1,0 +1,30 @@
+*{
+    padding: 150;
+    margin: 0;
+}
+
+body{
+    background-color: ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+header{
+    background-image: url(.jpg);
+
+}
+
+#menu{
+    padding: 50px 0;
+}
+
+header #menu ul{
+    margin: 0;
+    padding: 0;
+}
+
+header #menu ul li{
+    display: inline-block;
+    padding: 30px;
+    vertical-align: middle;
+}
